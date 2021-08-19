@@ -1,16 +1,5 @@
 [
     {
-        "module": ".\\aSoftwareServo.o", 
-        "size": {
-            ".data-delta": 0, 
-            ".text-delta": 0, 
-            ".bss": 0, 
-            ".data": 0, 
-            ".bss-delta": 0, 
-            ".text": 116
-        }
-    }, 
-    {
         "module": ".\\aTB6643KQ.o", 
         "size": {
             ".data-delta": 0, 
@@ -26,10 +15,10 @@
         "size": {
             ".data-delta": 0, 
             ".text-delta": 0, 
-            ".bss": 1459, 
+            ".bss": 1355, 
             ".data": 4, 
             ".bss-delta": 0, 
-            ".text": 1639
+            ".text": 1724
         }
     }, 
     {
@@ -44,14 +33,14 @@
         }
     }, 
     {
-        "module": "MbedOS2\\TARGET_NUCLEO_F446RE", 
+        "module": "MbedOS2\\TARGET_NUCLEO_F303RE", 
         "size": {
             ".data-delta": 0, 
             ".text-delta": 0, 
-            ".bss": 1292, 
+            ".bss": 1468, 
             ".data": 264, 
             ".bss-delta": 0, 
-            ".text": 15879
+            ".text": 16661
         }
     }, 
     {
@@ -62,7 +51,7 @@
             ".bss": 22, 
             ".data": 8, 
             ".bss-delta": 0, 
-            ".text": 109
+            ".text": 152
         }
     }, 
     {
@@ -95,7 +84,7 @@
             ".bss": 214, 
             ".data": 4, 
             ".bss-delta": 0, 
-            ".text": 6401
+            ".text": 6399
         }
     }, 
     {
@@ -111,10 +100,10 @@
     }, 
     {
         "summary": {
-            "static_ram": 5872, 
+            "static_ram": 5944, 
             "total_flash_delta": 0, 
             "static_ram_delta": 0, 
-            "total_flash": 66896
+            "total_flash": 67688
         }
     }
 ]
