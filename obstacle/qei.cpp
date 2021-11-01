@@ -250,11 +250,11 @@ void QEI::state(int i)
 }
 void QEI::qei_reset(void)
 {
+
     pulses_      = 0;
     revolutions_ = 0;
     round_rev = 0;
-    sumangle = 0;
-	angle_ =0;
+    sumangle = angle_ =0;
 }
 void QEI::set(int pul , int rev)
 {

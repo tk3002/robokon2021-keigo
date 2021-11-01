@@ -198,5 +198,5 @@ BUILD\NUCLEO_F303RE\GCC_ARM\main.o: main.cpp \
  C:/mbedOffline44/Datas/MbedOS2/platform/mbed_stats.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/Callback.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/FunctionPointer.h \
- C:/mbedOffline44/Datas/MbedOS2/platform/ScopedLock.h pid.h qei.h sx112.h \
- C:/mbedOffline44/Datas/MbedOS2/drivers/PwmOut.h aTB6643KQ.hpp
+ C:/mbedOffline44/Datas/MbedOS2/platform/ScopedLock.h pid.h qei.h \
+ aTB6643KQ.hpp

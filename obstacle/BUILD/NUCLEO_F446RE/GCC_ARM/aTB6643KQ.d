@@ -1,5 +1,5 @@
-BUILD\NUCLEO_F446RE\GCC_ARM\main.o: main.cpp \
- BUILD\NUCLEO_F446RE\GCC_ARM\mbed_config.h \
+BUILD\NUCLEO_F446RE\GCC_ARM\aTB6643KQ.o: aTB6643KQ.cpp \
+ BUILD\NUCLEO_F446RE\GCC_ARM\mbed_config.h aTB6643KQ.hpp \
  C:/mbedOffline44/Datas/MbedOS2/mbed.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/mbed_version.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/mbed_toolchain.h \
@@ -209,5 +209,4 @@ BUILD\NUCLEO_F446RE\GCC_ARM\main.o: main.cpp \
  C:/mbedOffline44/Datas/MbedOS2/platform/mbed_stats.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/Callback.h \
  C:/mbedOffline44/Datas/MbedOS2/platform/FunctionPointer.h \
- C:/mbedOffline44/Datas/MbedOS2/platform/ScopedLock.h pid.h qei.h \
- aTB6643KQ.hpp
+ C:/mbedOffline44/Datas/MbedOS2/platform/ScopedLock.h
